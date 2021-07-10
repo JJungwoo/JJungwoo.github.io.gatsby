@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Jungwoo Jo',
-    photo: '/jungwoo.jpeg',
+    photo: '/photo.jpg',
     // bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     bio: 'hi',
     contacts: {

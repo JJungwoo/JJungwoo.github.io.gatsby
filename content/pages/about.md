@@ -12,6 +12,5 @@ template: "page"
 
 - Name : 조정우 (Jo Jungwoo)
 - Gmail : jungwoo5759@gmail.com
-- Phone : 010-2829-5759
 - Github : [JJungwoo](https://github.com/JJungwoo)
 

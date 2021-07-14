@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jungwoo Jo]]></title><description><![CDATA[Blog by Jungwoo Jo]]></description><link>https://github.com/JJungwoo</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Jul 2021 16:11:26 GMT</lastBuildDate><item><title><![CDATA[springboot에서 swagger2 실행하기]]></title><description><![CDATA[springboot swagger2]]></description><link>https://github.com/JJungwoo/posts/springboot에서-swagger2-실행하기</link><guid isPermaLink="false">https://github.com/JJungwoo/posts/springboot에서-swagger2-실행하기</guid><pubDate>Thu, 15 Jul 2021 23:37:37 GMT</pubDate><content:encoded>&lt;p&gt;본 게시글에서는 springboot에서 swagger2를 설정하는 과정을 설명한다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jungwoo Jo]]></title><description><![CDATA[Blog by Jungwoo Jo]]></description><link>https://github.com/JJungwoo</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Jul 2021 16:24:10 GMT</lastBuildDate><item><title><![CDATA[springboot에서 swagger2 실행하기]]></title><description><![CDATA[springboot swagger2]]></description><link>https://github.com/JJungwoo/posts/springboot에서-swagger2-실행하기</link><guid isPermaLink="false">https://github.com/JJungwoo/posts/springboot에서-swagger2-실행하기</guid><pubDate>Thu, 15 Jul 2021 23:37:37 GMT</pubDate><content:encoded>&lt;p&gt;본 게시글에서는 springboot에서 swagger2를 설정하는 과정을 설명한다.&lt;/p&gt;
 &lt;h2 id=&quot;buildgradle&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#buildgradle&quot; aria-label=&quot;buildgradle permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;build.gradle&lt;/h2&gt;
 &lt;p&gt;먼저 springboot에서 swagger2를 사용하려면 build.gradle에 다음의 의존성 정보를 추가해줘야 한다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;groove&quot;&gt;&lt;pre class=&quot;language-groove&quot;&gt;&lt;code class=&quot;language-groove&quot;&gt;// Swagger 2
@@ -86,4 +86,39 @@ implementation &amp;#39;io.springfox:springfox-swagger-ui:2.9.2&amp;#39;&lt;/cod
           /&gt;
         &lt;/picture&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[테스트 게시글]]></description><link>https://github.com/JJungwoo/posts/test-post</link><guid isPermaLink="false">https://github.com/JJungwoo/posts/test-post</guid><pubDate>Wed, 07 Jul 2021 23:37:37 GMT</pubDate><content:encoded>&lt;p&gt;TEST&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[테스트 게시글]]></description><link>https://github.com/JJungwoo/posts/test-post</link><guid isPermaLink="false">https://github.com/JJungwoo/posts/test-post</guid><pubDate>Wed, 07 Jul 2021 23:37:37 GMT</pubDate><content:encoded>&lt;p&gt;TEST&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[프로그래머스] 프린터]]></title><description><![CDATA[programmers 프린터 풀이 해설]]></description><link>https://github.com/JJungwoo/posts/[프로그래머스]-프린터</link><guid isPermaLink="false">https://github.com/JJungwoo/posts/[프로그래머스]-프린터</guid><pubDate>Mon, 20 Jul 2020 23:37:37 GMT</pubDate><content:encoded>&lt;p&gt;프로그래머스 레벨 2단계의 일반적인 큐 자료구조를 활용하여 문제의 요청사항에 맞게 구현하면 되는 문제이다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://programmers.co.kr/learn/courses/30/lessons/42587&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;[programmers] 프린터&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;c++&quot;&gt;&lt;pre class=&quot;language-c++&quot;&gt;&lt;code class=&quot;language-c++&quot;&gt;#include &amp;lt;iostream&amp;gt;
+#include &amp;lt;string&amp;gt;
+#include &amp;lt;vector&amp;gt;
+#include &amp;lt;queue&amp;gt;
+#include &amp;lt;algorithm&amp;gt;
+using namespace std;
+
+int solution(vector&amp;lt;int&amp;gt; priorities, int location) {
+    int answer = 0;
+    queue&amp;lt;pair&amp;lt;int, int&amp;gt;&amp;gt; qp;
+    for(int i=0;i&amp;lt;priorities.size();i++){
+        qp.push({i, priorities[i]});
+    }
+    sort(priorities.begin(), priorities.end(), greater&amp;lt;int&amp;gt;());
+    int idx = 0;
+    while(!qp.empty()){
+        int value = qp.front().second;
+        cout&amp;lt;&amp;lt;qp.front().first&amp;lt;&amp;lt;&amp;quot; , &amp;quot;&amp;lt;&amp;lt;value&amp;lt;&amp;lt;&amp;quot;, idx&amp;quot;&amp;lt;&amp;lt;idx&amp;lt;&amp;lt;&amp;quot;\n&amp;quot;;
+        if(value &amp;lt; priorities[idx]){
+            pair&amp;lt;int, int&amp;gt; temp = qp.front();
+            qp.pop();
+            qp.push(temp);
+        }
+        else {
+            answer++;
+            if(location == qp.front().first){
+                break;
+            }
+            idx++;
+            qp.pop();
+        }
+    }
+    return answer;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>

@@ -141,6 +141,18 @@
   Link: </component---src-templates-post-template-js-e61517aa6e4e37c67af7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/springboot에서-swagger2-실행하기/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/[프로그래머스]-프린터
+  Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-c834ff89941df20a8e4f.js>; rel=preload; as=script
+  Link: </app-8c3642071e404fd1ed75.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-e755cb7860c0568f104c.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-e61517aa6e4e37c67af7.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/[프로그래머스]-프린터/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/test-post
   Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -153,6 +165,30 @@
   Link: </component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/test-post/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/algorithm
+  Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-c834ff89941df20a8e4f.js>; rel=preload; as=script
+  Link: </app-8c3642071e404fd1ed75.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-e755cb7860c0568f104c.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/algorithm/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/programmers
+  Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-c834ff89941df20a8e4f.js>; rel=preload; as=script
+  Link: </app-8c3642071e404fd1ed75.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-e755cb7860c0568f104c.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/programmers/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/springboot
   Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -189,6 +225,18 @@
   Link: </component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/category/test-post/page-data.json>; rel=preload; as=fetch; crossorigin
+/category/algorithm
+  Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-1e331b2e9d55ebef6dec.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-c834ff89941df20a8e4f.js>; rel=preload; as=script
+  Link: </app-8c3642071e404fd1ed75.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-e755cb7860c0568f104c.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/category/algorithm/page-data.json>; rel=preload; as=fetch; crossorigin
 /category/spring
   Link: </webpack-runtime-f01760e92f65e31e2e98.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
